@@ -30,7 +30,7 @@
       </b-list-group-item>
 
       <b-list-group-item class="w-100" style="bottom: 24px; position: absolute; text-align: center;" v-b-tooltip.hover.right="'View source on GitHub'">
-        <a href="" target="_blank">
+        <a href="//github.com/faqihfass/faqihfass.github.io/tree/source" target="_blank">
           <font-awesome-icon :icon="['fas', 'code-branch']" />
         </a>
       </b-list-group-item>
