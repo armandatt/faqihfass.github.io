@@ -1,0 +1,16 @@
+.text-cursor { 
+  animation-name: caret;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: cubic-bezier(1, 0, 0, 1);
+  background: #528bff;
+  display: inline-block;
+  height: 16px;
+  transform: translateY(4px);
+  width: 2px;
+  -webkit-user-select: none;
+}
+
+@keyframes caret { 
+  from { opacity: 1.0; } to { opacity: 0.0; }
+}
