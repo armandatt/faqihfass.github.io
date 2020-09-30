@@ -1,6 +1,6 @@
 # faqihfass-github-pages
 
-This is my portfolio website. Design is based on Visual Studio Code with Atom's One Dark UI theme.
+This is my Amazing portfolio website. Design is based on Visual Studio Code with Atom's One Dark UI theme.
 
 ## Main dependencies
 
